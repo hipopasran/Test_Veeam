@@ -1,0 +1,9 @@
+C:\Users\vladi\OneDrive\Документы\Visual Studio 2015\Projects\GZipTest\GZipTest\bin\Debug\GZipTest.exe.config
+C:\Users\vladi\OneDrive\Документы\Visual Studio 2015\Projects\GZipTest\GZipTest\obj\Debug\GZipTest.csprojResolveAssemblyReference.cache
+C:\Users\vladi\OneDrive\Документы\Visual Studio 2015\Projects\GZipTest\GZipTest\bin\Debug\GZipTest.exe
+C:\Users\vladi\OneDrive\Документы\Visual Studio 2015\Projects\GZipTest\GZipTest\bin\Debug\GZipTest.pdb
+C:\Users\vladi\OneDrive\Документы\Visual Studio 2015\Projects\GZipTest\GZipTest\obj\Debug\GZipTest.exe
+C:\Users\vladi\OneDrive\Документы\Visual Studio 2015\Projects\GZipTest\GZipTest\obj\Debug\GZipTest.pdb
+C:\Users\vladi\OneDrive\Документы\Test_Veeam\Test_Veeam\GZipTest\bin\Debug\GZipTest.exe.config
+C:\Users\vladi\OneDrive\Документы\Test_Veeam\Test_Veeam\GZipTest\obj\Debug\GZipTest.exe
+C:\Users\vladi\OneDrive\Документы\Test_Veeam\Test_Veeam\GZipTest\obj\Debug\GZipTest.pdb

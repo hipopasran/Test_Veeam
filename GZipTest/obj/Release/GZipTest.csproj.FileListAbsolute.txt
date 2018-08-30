@@ -1,0 +1,5 @@
+C:\Users\vladi\OneDrive\Документы\Visual Studio 2015\Projects\GZipTest\GZipTest\bin\Release\GZipTest.exe.config
+C:\Users\vladi\OneDrive\Документы\Visual Studio 2015\Projects\GZipTest\GZipTest\bin\Release\GZipTest.exe
+C:\Users\vladi\OneDrive\Документы\Visual Studio 2015\Projects\GZipTest\GZipTest\bin\Release\GZipTest.pdb
+C:\Users\vladi\OneDrive\Документы\Visual Studio 2015\Projects\GZipTest\GZipTest\obj\Release\GZipTest.exe
+C:\Users\vladi\OneDrive\Документы\Visual Studio 2015\Projects\GZipTest\GZipTest\obj\Release\GZipTest.pdb
